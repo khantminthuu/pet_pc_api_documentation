@@ -24,6 +24,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1flTTwqW0hksJ7QVXbMSoPYJq3h" />
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
@@ -64,10 +67,29 @@
       <updated>1596791690911</updated>
       <workItem from="1596791692108" duration="3204000" />
       <workItem from="1596911859747" duration="1615000" />
+      <workItem from="1597049658529" duration="668000" />
+      <workItem from="1597130069845" duration="154000" />
+      <workItem from="1597130247358" duration="414000" />
+      <workItem from="1597136980688" duration="279000" />
+      <workItem from="1597231314656" duration="1048000" />
+      <workItem from="1597824201678" duration="830000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
